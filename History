@@ -1,0 +1,78 @@
+<html style="background-color: skyblue"><head></head><body><font color="#0c343d"><u><center><h1>Harry and Harriets Hang-gliding Haven</h1></center></u></font>
+<font color="#20124d">
+<center><font size="+2"><p>At Harry and Harriet's Hang-gliding Haven, our triumphs stem from a core set of values:</p></font></center><font size="+2">
+ </font></font><ol><font color="#20124d"><font size="+1.5"> <li>Innovation</li><li>Safety</li><li>Community</li>
+ </font><center><font size="+1"> <p>Meet the visionaries who sculpt our company's direction and guide us toward a more promising horizon.</p></font></center>
+</font>
+</ol>
+  <ul>
+  <font color="#20124d">
+  <center>
+    <li><h2><b>Carlos Nunez</b></h2></li>
+  </center>
+</font>
+<center>
+  <img src="img/carlos-nunez.jpg" height="250" width="300" alt="Carlos Nunez">
+</center>
+<font color="#20124d">
+  <center>
+    <h3><i><u>Founder & CEO</u></i></h3>
+  </center>
+</font>
+<center>
+  <a href="https://www.linkedin.com/in/carlosnunez123/" target="_blank">CEO LinkedIn Page</a>
+</center>
+<font color="#20124d">
+  <b>
+    <font size="+1">
+      <p>Carlos steers our haven with a visionary approach, combining robust business strategies with a fervor for the skies. His leadership is guided by years of experience in the outdoor sports industry, making our company a trusted name for both novices and seasoned thrill-seekers alike.</p>
+    </font>
+  </b>
+</font>
+<hr>
+  <font color="#20124d"><center> <li><h2><b>Ricardo Navarro</b> </h2></li></center></font>
+  <center><img src="IMG_A106052FC380-1.jpeg" height="250" width="230"></center>
+    <font color="#20124d"><center><h3><i><u>Chief Technology Officer</u></i></h3></center></font>
+<font color="#0c343d"><b><font size="+1"><p>At the technological helm, Ricardo architects our digital landscape with precision and innovation. His savvy in crafting user-friendly online experiences ensures you can book your next adventure or purchase gear with ease and confidence.</p></font></b>
+</font>
+  <hr>
+  <font color="#20124d"><center><li><h2><b>Rohan Patil</b></h2></li></center>
+  </font><center><font color="#20124d"><img src="img/LinkedIn.JPG" height="250" width="200" <="" center="">
+    <center><h3><i><u>Director of Marketing</u></i></h3></center></font>
+<font color="#0c343d"><b><font size="+1"><p>Rohans creative campaigns bring our brand to life across digital horizons. His expertise in engaging with our community ensures that we resonate with adventurers around the globe, spreading the excitement of flight through every online interaction.</p></font></b>
+</font>
+  <hr>
+<font color="#20124d">
+  <center>
+    <li><h2><b>Peter Krivacka</b></h2></li>
+  </center>
+</font>
+<center>
+  <img src="img/peter-krivacka.jpg" height="250" width="220" alt="Peter Krivacka, Operations Manager">
+</center>
+<font color="#20124d">
+  <center>
+    <h3><i><u>Operations Manager</u></i></h3>
+  </center>
+</font>
+<font color="#0c343d">
+  <b>
+    <font size="+1">
+      <p>Peter's strategic orchestration of our operations guarantees your adventure is smooth from the ground up. His meticulous attention to logistics and supply chain excellence means every detail is handled with care so you can focus on the thrill.</p>
+    </font>
+  </b>
+</font>
+<hr>
+</center></ul>
+<font color="#20124d">
+<center><i><font size="+2"><p>United in purpose, our leaders blend guidance with mentorship, fostering a team spirit that lifts Harry and Harriet's Hang-gliding Haven to new heights in aerial adventure.</p></font></i></center>
+
+<div id="result"last modification on : Tue Mar 19 2023 18:55:35 GMT-0400 (Eastern Daylight Time)</div>
+   <script>
+      var date = document.lastModified;
+      var lastModifiedDate = new Date(date);
+      document.getElementById("result").innerHTML = "The document was last modified on : " + lastModifiedDate;
+   </script>
+<a href="mailto: cenunez@purdue.edu" target="new window">Contact me.</a>
+ 
+</body></html>
